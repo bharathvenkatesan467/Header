@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    gap:60px;
+    align-content: center;
+    padding-left: 600px;
+}
+.head{
+    background-color:#405D72 ;
+    padding: 20px 0px;
+    justify-content: center;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color:#F7E7DC;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:#FF204E ;
+}
